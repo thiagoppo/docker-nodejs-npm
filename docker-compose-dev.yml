@@ -1,0 +1,6 @@
+version: '2'
+services:
+  app:
+    build: .
+    container_name: npm-gulp-bower
+    command: top -b
