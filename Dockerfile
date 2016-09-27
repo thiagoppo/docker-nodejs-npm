@@ -3,6 +3,9 @@ FROM ubuntu:14.04
 #Atualizado
 RUN apt-get update
 
+#Instalando Git
+RUN sudo apt-get -y install git
+
 #Instalando Node
 RUN sudo apt-get -y install nodejs
 
