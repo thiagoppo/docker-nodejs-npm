@@ -5,4 +5,3 @@ Imagem para frontend com NodeJS, NPM, Gulp e Bower.
 - NPM
 - Gulp
 - Bower
-- PhantomJS
