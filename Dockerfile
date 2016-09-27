@@ -19,4 +19,4 @@ RUN sudo apt-get -y install npm
 RUN npm install -g bower
 
 #Instalando Gulp
-RUN npm install -g gulp
+RUN npm install --global gulp-cli
