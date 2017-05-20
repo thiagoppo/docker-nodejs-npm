@@ -17,9 +17,3 @@ RUN apt-get -y install nodejs-legacy
 
 #Instalando NPM
 RUN sudo apt-get -y install npm
-
-#Instalando Bower
-RUN npm install -g bower
-
-#Instalando Gulp
-RUN npm install --global gulp-cli
