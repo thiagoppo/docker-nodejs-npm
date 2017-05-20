@@ -2,5 +2,5 @@ version: '2'
 services:
   app:
     build: .
-    container_name: nodejs-npm-gulp-bower
+    container_name: nodejs-npm
     command: top -b
